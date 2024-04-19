@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|c:\\users\\tuf-gaming\\documents\\zalo received files\\lab6\\openlibrary\\openlibrary.dataaccess\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|solutionrelative:openlibrary.dataaccess\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.presatation\\frmqlchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|solutionrelative:openlibrary.presatation\\frmqlchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.presatation\\frmqlchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|solutionrelative:openlibrary.presatation\\frmqlchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB968F3-FD96-45C1-97ED-07446CA8219E}|OpenLibrary.Bussiness\\OpenLibrary.Bussiness.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.bussiness\\ctrchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB968F3-FD96-45C1-97ED-07446CA8219E}|OpenLibrary.Bussiness\\OpenLibrary.Bussiness.csproj|solutionrelative:openlibrary.bussiness\\ctrchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.dataaccess\\qlchuyennganhdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|solutionrelative:openlibrary.dataaccess\\qlchuyennganhdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB968F3-FD96-45C1-97ED-07446CA8219E}|OpenLibrary.Bussiness\\OpenLibrary.Bussiness.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.bussiness\\ctrnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB968F3-FD96-45C1-97ED-07446CA8219E}|OpenLibrary.Bussiness\\OpenLibrary.Bussiness.csproj|solutionrelative:openlibrary.bussiness\\ctrnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.presatation\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|solutionrelative:openlibrary.presatation\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.presatation\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0AD1257-C766-4837-9973-A66710AD433E}|openLibrary.Presatation\\openLibrary.Presatation.csproj|solutionrelative:openlibrary.presatation\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openlibrary.dataaccess\\nhanviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7CF43-9D43-41FE-8226-39C7F4645966}|OpenLibrary.DataAccess\\OpenLibrary.DataAccess.csproj|solutionrelative:openlibrary.dataaccess\\nhanviendl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\DataHelper.cs",
+              "RelativeDocumentMoniker": "OpenLibrary.DataAccess\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\DataHelper.cs",
+              "RelativeToolTip": "OpenLibrary.DataAccess\\DataHelper.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv0kAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:07:49.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmQLChuyenNganh.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "RelativeDocumentMoniker": "openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "RelativeToolTip": "openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:52:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmQLChuyenNganh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "RelativeDocumentMoniker": "openLibrary.Presatation\\FrmQLChuyenNganh.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQLChuyenNganh.cs [Design]",
+              "RelativeToolTip": "openLibrary.Presatation\\FrmQLChuyenNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:52:08.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtrChuyenNganh.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.Bussiness\\CtrChuyenNganh.cs",
+              "RelativeDocumentMoniker": "OpenLibrary.Bussiness\\CtrChuyenNganh.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.Bussiness\\CtrChuyenNganh.cs",
+              "RelativeToolTip": "OpenLibrary.Bussiness\\CtrChuyenNganh.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:38:47.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLChuyenNganhDL.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\QLChuyenNganhDL.cs",
+              "RelativeDocumentMoniker": "OpenLibrary.DataAccess\\QLChuyenNganhDL.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\QLChuyenNganhDL.cs",
+              "RelativeToolTip": "OpenLibrary.DataAccess\\QLChuyenNganhDL.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:38:22.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanvienDL.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\NhanvienDL.cs",
+              "RelativeDocumentMoniker": "OpenLibrary.DataAccess\\NhanvienDL.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.DataAccess\\NhanvienDL.cs",
+              "RelativeToolTip": "OpenLibrary.DataAccess\\NhanvienDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:28:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CtrNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.Bussiness\\CtrNhanVien.cs",
+              "RelativeDocumentMoniker": "OpenLibrary.Bussiness\\CtrNhanVien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\OpenLibrary.Bussiness\\CtrNhanVien.cs",
+              "RelativeToolTip": "OpenLibrary.Bussiness\\CtrNhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:25:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmQlNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "RelativeDocumentMoniker": "openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "RelativeToolTip": "openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:07:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmQlNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "RelativeDocumentMoniker": "openLibrary.Presatation\\FrmQlNhanVien.cs",
+              "ToolTip": "C:\\Users\\TUF-GAMING\\Documents\\Zalo Received Files\\LAB6\\openLibrary\\openLibrary.Presatation\\FrmQlNhanVien.cs [Design]",
+              "RelativeToolTip": "openLibrary.Presatation\\FrmQlNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:04:46.747Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

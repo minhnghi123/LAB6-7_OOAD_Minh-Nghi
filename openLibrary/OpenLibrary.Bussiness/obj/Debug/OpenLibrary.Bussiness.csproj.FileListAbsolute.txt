@@ -1,0 +1,36 @@
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CopyComplete
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.Bussiness.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.AssemblyReference.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibr.BD36000C.Up2Date
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.Bussiness\obj\Debug\OpenLibrary.Bussiness.pdb

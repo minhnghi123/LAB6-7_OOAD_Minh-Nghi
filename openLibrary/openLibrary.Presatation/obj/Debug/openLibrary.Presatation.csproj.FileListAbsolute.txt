@@ -1,0 +1,102 @@
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmDangNhap.resources
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmMain.resources
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQLChuyenNganh.resources
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.Properties.Resources.resources
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.GenerateResource.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe.licenses
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe.config
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Xpo.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Xpo.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibr.CA132C3B.Up2Date
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe.config
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Xpo.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Xpo.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmDangNhap.resources
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmMain.resources
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQLChuyenNganh.resources
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.Properties.Resources.resources
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.GenerateResource.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe.licenses
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibr.CA132C3B.Up2Date
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQLDausach.resources
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQlNhanVien.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe.config
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.exe
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\openLibrary.Presatation.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.Bussiness.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.AssemblyReference.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmDangNhap.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmMain.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQLChuyenNganh.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQLDausach.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.FrmQlNhanVien.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.Properties.Resources.resources
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.GenerateResource.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe.licenses
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.csproj.CoreCompileInputs.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibr.CA132C3B.Up2Date
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.exe
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\openLibrary.Presatation\obj\Debug\openLibrary.Presatation.pdb

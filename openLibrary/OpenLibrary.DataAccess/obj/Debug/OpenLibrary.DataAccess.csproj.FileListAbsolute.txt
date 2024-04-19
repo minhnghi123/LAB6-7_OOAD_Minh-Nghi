@@ -1,0 +1,29 @@
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\hk2\repos\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\hk2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\repos1\openLibrary.Presatation\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+D:\Dai Hoc\nam2\OpenLibrary\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\bin\Debug\OpenLibrary.DataAccess.pdb
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.AssemblyReference.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.dll
+C:\Users\TUF-GAMING\Documents\Zalo Received Files\LAB6\openLibrary\OpenLibrary.DataAccess\obj\Debug\OpenLibrary.DataAccess.pdb
